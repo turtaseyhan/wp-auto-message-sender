@@ -2,7 +2,7 @@
 ![Build Status](https://api.travis-ci.org/turtaseyhan/wp-auto-message-sender.svg)
 #### _Hakkında_
 - Belirtilen numaralara, belirtilen tarihte, belirtilen mesajı gönderir.
-- Javascript(NodeJS) tabanlıdır.
+- Proje Javascript(NodeJS) tabanlıdır.
 ## Kullanımı
 
  - Dosyaları bir klasöre atıp ```npm i ``` yazarsanız script için kullanılan tüm paketleri kurar.
