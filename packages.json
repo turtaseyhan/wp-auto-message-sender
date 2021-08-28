@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "csvtojson": "^2.0.10",
-    "moment": "^2.29.1"
+    "moment": "^2.29.1",
+    "wbm": "^1.1.16"
   }
 }
